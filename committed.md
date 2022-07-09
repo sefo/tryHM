@@ -17,7 +17,7 @@ The following commands will be needed to solve the room
 
 ### Master
 
-Running `git status` we see there are 2 files in the repository
+Running `ls` we see there are 2 files in the repository
 
 - Readme.md
 - main.py
